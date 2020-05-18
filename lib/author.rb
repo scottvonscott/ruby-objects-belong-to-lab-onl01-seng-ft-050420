@@ -6,8 +6,5 @@ class Author
     @name = name
   end
 
-  def author=()
-    def
-
 
 end
